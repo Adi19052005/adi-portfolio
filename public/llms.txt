@@ -1,0 +1,15 @@
+# Aditya Solunke
+
+Software developer interested in backend engineering, distributed systems, cloud infrastructure, applied AI, and technical education.
+
+## Projects
+- Distributed Code Runner: https://github.com/Adi19052005/distributed-code-runner-engine
+- VideoStream: https://github.com/Adi19052005/VideoStream
+- 4P_MySkills: https://github.com/Adi19052005/SkillsManagement.Analytics
+
+## Profiles
+- GitHub: https://github.com/Adi19052005
+- LinkedIn: https://www.linkedin.com/in/aditya-solunke/
+- Don't Just Learn: https://www.instagram.com/dontjustlearn.dev/
+
+Project descriptions and employment details should be checked against their primary sources. This file supplements the accessible portfolio page; it does not replace it.
